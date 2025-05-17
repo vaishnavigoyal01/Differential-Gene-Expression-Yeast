@@ -1,0 +1,15 @@
+Status	mapped/batch1_chrI.sam	mapped/batch2_chrI.sam	mapped/batch3_chrI.sam	mapped/chem1_chrI.sam	mapped/chem2_chrI.sam	mapped/chem3_chrI.sam
+Assigned	62433	84736	65867	59493	71092	86438
+Unassigned_Unmapped	65	69	72	57	70	76
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	9816	12887	10463	10276	12818	14427
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	2061	2776	2065	1766	2109	2426
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	19298	26487	20938	10645	14977	18007

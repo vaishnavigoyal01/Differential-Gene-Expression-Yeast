@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	batch3_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch3_chrI_1_fastqc.zip
+FastQC	all_sections	chem3_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem3_chrI_1_fastqc.zip
+FastQC	all_sections	batch1_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch1_chrI_1_fastqc.zip
+FastQC	all_sections	batch2_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch2_chrI_1_fastqc.zip
+FastQC	all_sections	chem2_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem2_chrI_1_fastqc.zip
+FastQC	all_sections	batch1_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch1_chrI_2_fastqc.zip
+FastQC	all_sections	chem1_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem1_chrI_2_fastqc.zip
+FastQC	all_sections	chem3_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem3_chrI_2_fastqc.zip
+FastQC	all_sections	batch3_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch3_chrI_2_fastqc.zip
+FastQC	all_sections	batch2_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/batch2_chrI_2_fastqc.zip
+FastQC	all_sections	chem2_chrI_2	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem2_chrI_2_fastqc.zip
+FastQC	all_sections	chem1_chrI_1	/home/vaishnavi-goyal/rna_analysis/fastqc-output/chem1_chrI_1_fastqc.zip
