@@ -1,0 +1,13 @@
+Sample	Unique Reads	Duplicate Reads
+batch1_chrI_1	23628.0	20422.0
+batch1_chrI_2	24171.0	19879.0
+batch2_chrI_1	29934.0	29966.0
+batch2_chrI_2	30472.0	29428.0
+batch3_chrI_1	24174.0	22601.0
+batch3_chrI_2	25065.0	21710.0
+chem1_chrI_1	22465.0	15860.0
+chem1_chrI_2	22819.0	15506.0
+chem2_chrI_1	24561.0	22601.0
+chem2_chrI_2	25218.0	21944.0
+chem3_chrI_1	29141.0	27724.0
+chem3_chrI_2	29761.0	27104.0

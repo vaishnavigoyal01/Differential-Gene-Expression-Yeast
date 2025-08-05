@@ -1,0 +1,2 @@
+[2025-05-14 18:25:23,909] multiqc.core.file_search                           [INFO   ]  Search path: /home/vaishnavi-goyal/rna_analysis/fastqc-output
+[2025-05-14 18:25:24,610] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 12 reports
